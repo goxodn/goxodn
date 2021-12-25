@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요! 👋
 - 🔭 백석대학교 4학년 컴퓨터공학부 학생입니다.
 - 🌱 JAVA,JSP,JAVASCRIPT,MYSQL,SPRING
 - 👯 태헌이랑 같이 알고리즘 공부하고 있어요.
