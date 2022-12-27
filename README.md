@@ -1,4 +1,16 @@
-### 안녕하세요! 👋
+
+
+2022 - 12 - 28 
+
+✨다시 시작✨
+
+목표
+
+beakjoon 골드 티어 달성
+
+만들었던 프로젝트 업로드 및 추가 보완 수정
+
+CS 지식 늘리고 유연하게 말 할 수 있을 정도로 이해하기
 
 <!--
 **goxodn/goxodn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
